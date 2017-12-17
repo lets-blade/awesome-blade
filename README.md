@@ -17,7 +17,7 @@
 - [Third-party Integration](#third-party-integration)
   - [Database](#database)
   - [Template](#template)
-  - [JSON Support](#json-support)
+  - [JSON Support](#json-support)
 - [Other Tools](#other-tools)
   - [Command Line](#command-line)
   - [Generator](#generator)
@@ -75,3 +75,12 @@
 - [GSON Support](https://github.com/lets-blade/blade-json-support/tree/master/blade-gson-support) - Use gson as the default JSON support
 
 # Other Tools
+
+## Command Line
+
+- [blade-cli]() - Generate the project under the command line skeleton, packaged, run, use the go language
+
+## Generator
+
+- [codegen](https://github.com/lets-blade/codegen) - Help generate a project skeleton, including template configuration and database entities
+
