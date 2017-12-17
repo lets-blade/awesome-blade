@@ -17,7 +17,7 @@
 - [Third-party Integration](#third-party-integration)
   - [Database](#database)
   - [Template](#template)
-  - []
+  - [JSON Support](#json-support)
 - [Other Tools](#other-tools)
   - [Command Line](#command-line)
   - [Generator](#generator)
@@ -57,5 +57,21 @@
 - PingAn
 
 # Third-party Integration
+
+## Database
+
+- [blade-jdbc](https://github.com/lets-blade/blade-jdbc) - ActiveRecord mode database operations, based on sql2o
+
+## Template
+
+- [Jetbrick Templte](https://github.com/lets-blade/blade-template-engines/tree/master/blade-template-jetbrick) - Jetbrick template engine support
+- [Pebble Templte](https://github.com/lets-blade/blade-template-engines/tree/master/blade-template-pebble) - Pebble template engine support
+- [Velocity Templte](https://github.com/lets-blade/blade-template-engines/tree/master/blade-template-velocity) - Velocity template engine support
+
+## JSON Support
+
+- [FastJSON Support](https://github.com/lets-blade/blade-json-support/tree/master/blade-fastjson-support) - Use fastjson as the default JSON support
+- [Jackson Support](https://github.com/lets-blade/blade-json-support/tree/master/blade-jackson-support) - Use jackson as the default JSON support
+- [GSON Support](https://github.com/lets-blade/blade-json-support/tree/master/blade-gson-support) - Use gson as the default JSON support
 
 # Other Tools
