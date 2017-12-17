@@ -14,13 +14,14 @@
   - [Commercial Products](#commercial-products)
   - [Websites](#appswebsites)
   - [Enterprise Usage](#enterprise-usage)
+- [Examples](#examples) 
 - [Third-party Integration](#third-party-integration)
   - [Database](#database)
   - [Template](#template)
   - [JSON Support](#json-support)
 - [Other Tools](#other-tools)
   - [Command Line](#command-line)
-  - [Generator](#generator)
+  - [Generator](#generator)
   
 # Projects Using Blade
 
@@ -33,10 +34,22 @@
 - [grice](https://github.com/biezhi/grice) - Use markdown to render the document
 - [java-china](https://github.com/junicorn/java-china) - Concise java forum procedures, based on Blade1x
 
+# Examples
+
+- [blade-helloworld](https://github.com/lets-blade/blade-demos/tree/master/blade-helloworld)
+- [blade-upload](https://github.com/lets-blade/blade-demos/tree/master/blade-upload)
+- [blade-ajax](https://github.com/lets-blade/blade-demos/tree/master/blade-ajax)
+- [blade-route](https://github.com/lets-blade/blade-demos/tree/master/blade-route)
+- [blade-template](https://github.com/lets-blade/blade-demos/tree/master/blade-template)
+- [blade-vue-todolist](https://github.com/lets-blade/blade-demos/tree/master/blade-vue-todolist)
+- [blade-package](https://github.com/lets-blade/blade-demos/tree/master/blade-package)
+- [blade-custom-banner](https://github.com/lets-blade/blade-demos/tree/master/blade-custom-banner)
+
 ## Commercial Products
 
 ## Websites
 
+- https://biezhi.me
 - https://fangfang.ink
 - https://www.myann.cn/
 - http://116.196.122.228:9000/
