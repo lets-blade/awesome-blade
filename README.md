@@ -80,6 +80,7 @@
 - [Jetbrick Templte](https://github.com/lets-blade/blade-template-engines/tree/master/blade-template-jetbrick) - Jetbrick template engine support
 - [Pebble Templte](https://github.com/lets-blade/blade-template-engines/tree/master/blade-template-pebble) - Pebble template engine support
 - [Velocity Templte](https://github.com/lets-blade/blade-template-engines/tree/master/blade-template-velocity) - Velocity template engine support
+- [Freemarker Templte](https://github.com/lets-blade/blade-template-engines/tree/master/blade-template-freemarker) - Freemarker template engine support
 
 ## JSON Support
 
