@@ -32,7 +32,7 @@
 - [nice](https://github.com/biezhi/nice) - Picture social networking site
 - [oh-mybatis](https://github.com/biezhi/oh-mybatis) - Web-generated mybatis code generator
 - [grice](https://github.com/biezhi/grice) - Use markdown to render the document
-- [java-china](https://github.com/junicorn/java-china) - Concise java forum procedures, based on Blade1x
+- [bye-2017](https://github.com/biezhi/bye-2017) - Bye! my 2017
 
 # Examples
 
@@ -44,12 +44,15 @@
 - [blade-vue-todolist](https://github.com/lets-blade/blade-demos/tree/master/blade-vue-todolist)
 - [blade-package](https://github.com/lets-blade/blade-demos/tree/master/blade-package)
 - [blade-custom-banner](https://github.com/lets-blade/blade-demos/tree/master/blade-custom-banner)
+- [blade-task](https://github.com/lets-blade/blade-demos/tree/master/blade-task)
+- [blade-kit-example](https://github.com/lets-blade/blade-demos/tree/master/blade-kit-example/src/main/java/com/blade/demo/kit)
 
 ## Commercial Products
 
 ## Websites
 
-- https://biezhi.me
+- https://findor.me
+- https://geek-dev.club
 - https://fangfang.ink
 - https://www.myann.cn/
 - http://116.196.122.228:9000/
@@ -73,7 +76,7 @@
 
 ## Database
 
-- [blade-jdbc](https://github.com/lets-blade/blade-jdbc) - ActiveRecord mode database operations, based on sql2o
+- [anima](https://github.com/biezhi/anima) - minimal database operation library. 
 
 ## Template
 
@@ -92,7 +95,7 @@
 
 ## Command Line
 
-- [blade-cli]() - Generate the project under the command line skeleton, packaged, run, use the go language
+- [blade-cli](https://github.com/biezhi/blade-cli) - Generate the project under the command line skeleton, packaged, run, use the go language
 
 ## Generator
 
