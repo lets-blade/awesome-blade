@@ -34,6 +34,7 @@
 - [oh-mybatis](https://github.com/biezhi/oh-mybatis) - Web-generated mybatis code generator
 - [grice](https://github.com/biezhi/grice) - Use markdown to render the document
 - [bye-2017](https://github.com/biezhi/bye-2017) - Bye! my 2017
+- [bing-wallpaper](https://github.com/vpday/bing-wallpaper) - Daily collection Bing Wallpaper
 
 # Examples
 
