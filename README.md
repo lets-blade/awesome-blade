@@ -9,6 +9,7 @@
 
 > A curated list of awesome things related to Blade
 
+- [English Guides](#english-guides)
 - [Projects Using Blade](#projects-using-blade)
   - [Open Source](#open-source)
   - [Commercial Products](#commercial-products)
@@ -22,6 +23,11 @@
 - [Other Tools](#other-tools)
   - [Command Line](#command-line)
   - [Generator](#generator)
+  
+  
+# English Guides
+
+- [Blade - A Complete Guidebook](https://www.baeldung.com/blade)
   
 # Projects Using Blade
 
